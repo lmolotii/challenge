@@ -3,8 +3,7 @@
 
 Good day! 
 
-Welcome to the profile-me challange, I hope you will engoy it during the execution. The goal of this challange is to check your abilities to learn and execute simple tasks.
-Our team is sure, that the basic level of knowledge is needed to succeed with the challange. 
+Welcome to the profile-me challenge, I hope you will enjoy it during the execution. The goal of this challenge is to check your abilities to learn and execute simple tasks. Our team belives, that the basic level of knowledge is needed to succeed with it. 
 
 Good luck, hope you will finish it. 
 
