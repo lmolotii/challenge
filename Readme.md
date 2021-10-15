@@ -14,7 +14,7 @@ Good luck, hope you will finish it.
 
 1. Please follow the instructions, to configure git repositories, and access to them:
 
-https://docs.google.com/document/d/1FsZ_8PFx6e9ijNAbFQLmrhxJ4VN9yIT5HeKFlBV0T4I/edit?usp=sharing
+    https://docs.google.com/document/d/1FsZ_8PFx6e9ijNAbFQLmrhxJ4VN9yIT5HeKFlBV0T4I/edit?usp=sharing
 
 2. You will need to have the following software on your PC:
 
